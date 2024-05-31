@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "David",
+      "apellido": "Carrera",
+      "correo": "DavidCarrera@gmail.com",
+      "celular": "980371926",
+      "fecha": "14/04/1980",
+      "ubicacion": "Lima",
+      "method": "****-****-****-1234",
+      "suscription": "Premium"
+    }
+  ],
+  "reserva": [
+    {
+      "id": "48a0",
+      "title": "Lima Food Tour",
+      "image": "https://freewalkingtoursperu.com/wp-content/uploads/2020/06/plaza-de-armas-lima-peru-11.jpg",
+      "duration": 4,
+      "price": 150
+    }
+  ]
+}
